@@ -3,5 +3,5 @@ pygments: true
 markdown: kramdown
 url: http://malokov.github.io
 title: trial and error
-description:... mostly error
+description: ... mostly error
 paginate: 20
