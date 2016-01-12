@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://malokov.github.io
+title: trial and error ... mostly error
+paginate: 20
